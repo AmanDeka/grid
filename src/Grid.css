@@ -1,0 +1,7 @@
+.Grid{
+    display: flex;
+    width:100%;
+    flex-wrap: wrap;
+    margin:auto;
+    min-height: min-content
+}
